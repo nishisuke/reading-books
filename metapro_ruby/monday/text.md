@@ -6,3 +6,4 @@ Class.instance_methos == String.methods
 Class.instance_methods == [:superclass, :new, ...]
 -> 継承関係が作れて, インスタンス化できる！
 
+classがmoduleをincludeするとき無名クラスを作ってラップし真上に入れる

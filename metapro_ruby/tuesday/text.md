@@ -1,0 +1,1 @@
+def = define_method
